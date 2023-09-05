@@ -1,7 +1,7 @@
 # Website-Resume-using-HTML
 
-Repository ini digunakan untuk memenuhi latihan pertama kelas Pemrograman Web
-Nama : Wardatul Amalia Safitri
-NRP : 5025211006
-Kelas : Pemrograman Web A
-Tahun : 2023
+Repository ini digunakan untuk memenuhi latihan pertama kelas Pemrograman Web <br />
+Nama : Wardatul Amalia Safitri <br />
+NRP : 5025211006 <br />
+Kelas : Pemrograman Web A < br />
+Tahun : 2023 <br />
